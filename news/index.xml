@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>お知らせ on Ashinote: アシノオト株式会社</title>
+    <link>https://ashinote.com/news/</link>
+    <description>Recent content in お知らせ on Ashinote: アシノオト株式会社</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2016 - Ashinote, Inc. all rights reserved.</copyright>
+    <lastBuildDate>Thu, 01 Jun 2017 17:16:56 +0900</lastBuildDate>
+    
+	<atom:link href="https://ashinote.com/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hub Japan 月間ユニークユーザ数１０万を達成</title>
+      <link>https://ashinote.com/news/2017/06/01/hubjapan-uu/</link>
+      <pubDate>Thu, 01 Jun 2017 17:16:56 +0900</pubDate>
+      
+      <guid>https://ashinote.com/news/2017/06/01/hubjapan-uu/</guid>
+      <description>&lt;p&gt;Hub Japanの月間利用ユーザ数（UU）が１０万を達成しました。
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hub Japan 体験仲介サービス”BE A LOCAL”をリリース</title>
+      <link>https://ashinote.com/news/2016/10/02/hubjapan-release-bealocal/</link>
+      <pubDate>Sun, 02 Oct 2016 17:11:20 +0900</pubDate>
+      
+      <guid>https://ashinote.com/news/2016/10/02/hubjapan-release-bealocal/</guid>
+      <description>&lt;p&gt;当社はHub Japanの第２弾サービスとして体験仲介サービス”BE A LOCAL”をリリースしました。
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hub Japan リリース</title>
+      <link>https://ashinote.com/news/2016/03/02/hubjapan-release-v1/</link>
+      <pubDate>Wed, 02 Mar 2016 17:11:20 +0900</pubDate>
+      
+      <guid>https://ashinote.com/news/2016/03/02/hubjapan-release-v1/</guid>
+      <description>&lt;p&gt;当社は「BE A PART OF REAL JAPAN」をテーマとした訪日外国人と日本ローカルのオンラインコミュニティ”Hub Japan”をリリースしました。
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

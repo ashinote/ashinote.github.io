@@ -1,0 +1,192 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.form-control {
+  font-size: 16px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+.ourteams .box-simple p {
+  text-align: left;
+}
+
+.name-sub {
+  font-size: 14px;
+}
+.position {
+  display: block;
+  font-size: 14px;
+}
+.home-carousel .homepage  {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.home-carousel ul {
+  white-space: nowrap;
+}
+.home-carousel ul li {
+  margin-bottom: 20px;
+  text-transform: none;
+}
+.home-carousel .title {
+  font-size: 22px;
+  font-weight: 600;
+}
+.home-carousel .subtitle {
+  font-size: 16px;
+  font-weight: 300;
+}
+@media (max-width: 751px) {
+  .home-carousel h1 {
+      font-size: 28px;
+  }
+  .home-carousel .title {
+    font-size: 16px;
+  }
+  .home-carousel .subtitle {
+    font-size: 12px;
+  }
+}
+.home-carousel {
+  height: 70vh;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  background: url(../img/keyvisual.jpg) center center repeat;
+  background-size: cover;
+}
+.home-carousel .dark-mask {
+  background: #006666;
+  opacity: 0.8;
+}
+
+.hubjapan.bar.background-image-fixed-2 {
+  background: url(../img/hubjapan-bg-qa.jpg) center top no-repeat;
+  background-size: cover;
+}
+.hubjapan img  {
+  max-width: 250px;
+  margin-bottom: 15px;
+}
+.hubjapan .dark-mask {
+  opacity: 0.7;
+}
+.ourteams img {
+  max-width: 200px;
+
+}
+.ourteams img.green {
+  border: 3px #006666 solid;
+}
+.ourteams img.red {
+  border: 3px #993333 solid;
+}
+.btn {
+  text-transform: none;
+}
+h4 {
+  text-transform: none;
+}
+.recent-news .box-image-text .content .category {
+
+}
+.recent-news .box-image-text .content h4 {
+  display: inline;
+  text-transform: none;
+}
+.recent-news .box-image-text {
+  text-align: left;
+
+}
+.recent-news .btn {
+  margin-top: 15px;
+}
+.aboutus .social a i {
+  color: white;
+  font-size: smaller;
+  margin-bottom: 15px;
+}
+#about .left {
+  float: left;
+}
+#about .right {
+  float: right;
+}
+#about .ashinote-logo {
+  width: 100%;
+  max-width: 300px;
+}
+#contact textarea {
+  height: 200px;
+}
+#contact strong {
+  font-size: 20px;
+}
+#contact .heading, #about .heading {
+  margin-bottom: 15px;
+}
+
+.breadcrumbs-container {
+  position: relative;
+}
+.breadcrumbs-container .dark-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #006666;
+  opacity: 0.8;
+  filter: alpha(opacity=90);
+}
+#heading-breadcrumbs h1 {
+  color: #fff;
+  text-transform: none;
+}
+.features .hubjapan-logo {
+  width: 90px;
+}
+.features .icon {
+  border: none;
+  font-size: 50px;
+}
+#blog-post #post-content {
+  margin-bottom: 60px;
+}
+
+#blog-post .socials {
+  padding-left: 0;
+  margin-bottom: 60px;
+}
+
+#blog-post .socials > li {
+  display: inline-block;
+  line-height: 0;
+  vertical-align: top;
+  margin: 0 7px;
+}
+#blog-post .socials > li:first-child {
+    margin-left: 0;
+}
+
+#blog-post .socials > li:last-child {
+    margin-right: 5px;
+}
+
+#blog-post .socials iframe {
+    margin: 0 !important;
+}
