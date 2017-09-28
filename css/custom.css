@@ -93,7 +93,9 @@
     background-attachment: inherit;
   }
 }
-
+.hubjapan .lead {
+  white-space: nowrap;
+}
 
 .hubjapan img  {
   max-width: 250px;
