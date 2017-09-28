@@ -1,4 +1,11 @@
 /* your styles go here */
+.home-carousel-section {
+  margin-bottom: 0;
+}
+.navbar-brand img.visible-xs {
+  width: 150px;
+  margin-top: 7px;
+}
 
 .box-image-text .image {
   min-height: 200px;
@@ -50,7 +57,7 @@
     font-size: 16px;
   }
   .home-carousel .subtitle {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 .home-carousel {
