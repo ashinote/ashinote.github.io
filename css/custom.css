@@ -211,3 +211,18 @@ h4 {
 #blog-listing-medium .post h2 {
     text-transform: none;
 }
+
+#blog-post img {
+  max-width: 100%;
+}
+#blog-post h2 {
+  border-left: 10px solid #993333;
+  font-size: 22px;
+  margin-top: 35px;
+  margin-bottom: 12px;
+      padding-left: 8px;
+}
+
+#blog-post figcaption h4 {
+  font-size: 15px;
+}
