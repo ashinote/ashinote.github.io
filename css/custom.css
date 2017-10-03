@@ -228,3 +228,8 @@ h4 {
 #blog-post figcaption h4 {
   font-size: 15px;
 }
+
+#contact .required {
+  color: red;
+  margin-left: 3px;
+}
