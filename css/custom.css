@@ -86,11 +86,11 @@
   background-size: cover;
   background-attachment: fixed;
 }
-@media (max-width: 751px) {
+@media (max-width: 991px) {
   .hubjapan.bar.background-image-fixed-2 {
     background: url(../img/hubjapan-bg-qa.jpg) center top no-repeat;
     background-size: cover;
-    background-attachment: inherit;
+    background-attachment: local;
   }
 }
 .hubjapan .lead {
