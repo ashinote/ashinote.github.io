@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ashinote.com/news/2017/12/04/info-20171205/</loc>
+    <lastmod>2017-12-04T09:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ashinote.com/news/2017/10/11/hubjapan-meet-and-eat-restaurant-pre/</loc>
     <lastmod>2017-10-11T10:01:02+09:00</lastmod>
   </url>
@@ -24,13 +29,13 @@
   
   <url>
     <loc>https://ashinote.com/tags/</loc>
-    <lastmod>2017-10-11T10:01:02+09:00</lastmod>
+    <lastmod>2017-12-04T09:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ashinote.com/</loc>
-    <lastmod>2017-10-11T10:01:02+09:00</lastmod>
+    <lastmod>2017-12-04T09:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,7 +52,7 @@
   
   <url>
     <loc>https://ashinote.com/tags/</loc>
-    <lastmod>2017-10-11T10:01:02+09:00</lastmod>
+    <lastmod>2017-12-04T09:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -63,11 +68,17 @@
   
   <url>
     <loc>https://ashinote.com/news/</loc>
-    <lastmod>2017-10-11T10:01:02+09:00</lastmod>
+    <lastmod>2017-12-04T09:00:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://ashinote.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ashinote.com/categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</loc>
+    <lastmod>2017-12-04T09:00:00+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
