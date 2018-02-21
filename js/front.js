@@ -25,8 +25,15 @@ $(function () {
 // Ajax contact
 function contactForm () {
   var form = $('.contact-form')
+
   form.submit(function () {
     $this = $(this)
+
+    $('#contact-message').html("<i class=\"fa fa-spinner fa-spin fa-lg fa-fw margin-bottom\"></i>送信中...")
+
+    var btn = $('.contact-form [type=submit]')
+    btn.hide()
+
     $.post($(this).attr('action'),
       $this.serialize(),
       function () {
@@ -35,6 +42,7 @@ function contactForm () {
         $('#contact-message')
           .html('<div class="alert alert-success" role="alert"><button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>お問い合わせありがとうございます。折り返しご連絡いたしますので暫くお待ち下さい。</div>')
           .fadeIn()
+        btn.show()
       }
       , 'json')
     return false
