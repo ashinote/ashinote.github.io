@@ -104,10 +104,10 @@
 .hubjapan .dark-mask {
   opacity: 0.7;
 }
-.hubjapan {
-  height: 60vh;
+/* .hubjapan {
+  /* height: 60vh; */
   min-height: 500px;
-}
+} */
 .hubjapan .container {
   position: absolute;
   top: 50%;
