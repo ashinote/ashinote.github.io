@@ -3,8 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ashinote.com/</loc>
+    <lastmod>2018-12-12T09:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ashinote.com/categories/</loc>
+    <lastmod>2018-12-12T09:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ashinote.com/tags/</loc>
+    <lastmod>2018-12-12T09:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ashinote.com/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</loc>
+    <lastmod>2018-12-12T09:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ashinote.com/news/</loc>
+    <lastmod>2018-12-12T09:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ashinote.com/categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</loc>
+    <lastmod>2018-12-12T09:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ashinote.com/news/2018/12/12/info-20181213/</loc>
     <lastmod>2018-12-12T09:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ashinote.com/categories/hub-japan/</loc>
+    <lastmod>2018-11-12T18:11:20+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ashinote.com/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89/</loc>
+    <lastmod>2018-11-12T18:11:20+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ashinote.com/tags/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89/</loc>
+    <lastmod>2018-11-12T18:11:20+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -35,6 +88,12 @@
   <url>
     <loc>https://ashinote.com/news/2018/02/20/hubjapan-media-nikkei/</loc>
     <lastmod>2018-02-20T17:11:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ashinote.com/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</loc>
+    <lastmod>2018-01-31T09:01:02+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -88,68 +147,11 @@
   </url>
   
   <url>
-    <loc>https://ashinote.com/</loc>
-    <lastmod>2018-12-12T09:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ashinote.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ashinote.com/categories/hub-japan/</loc>
-    <lastmod>2018-11-12T18:11:20+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ashinote.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ashinote.com/contact/</loc>
   </url>
   
   <url>
-    <loc>https://ashinote.com/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</loc>
-    <lastmod>2018-12-12T09:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ashinote.com/news/</loc>
-    <lastmod>2018-12-12T09:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ashinote.com/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ashinote.com/categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</loc>
-    <lastmod>2018-12-12T09:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ashinote.com/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</loc>
-    <lastmod>2018-01-31T09:01:02+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ashinote.com/tags/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89/</loc>
-    <lastmod>2018-11-12T18:11:20+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ashinote.com/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89/</loc>
-    <lastmod>2018-11-12T18:11:20+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
