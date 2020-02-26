@@ -299,3 +299,6 @@ h4 {
 div#content {
   word-break: break-all;
 }
+div#content #map {
+  margin-top: 35px;
+}
